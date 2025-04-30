@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 Hi there! I'm Erfan — a passionate and self-taught developer with a strong interest in backend development, cybersecurity, and modern web technologies.
+
+💻 My journey began with Python, and over time I've built skills in working with frameworks like **Flask** and **FastAPI**, while also exploring databases using **SQL**, and working with tools like **Git** and **Linux**.
+
+🌐 I have a good understanding of web fundamentals — from **HTML**, **CSS**, and basic **JavaScript** to the core concepts of **networking** and **web security**. I'm continuously learning and enjoy solving problems by building secure and clean applications.
+
+⚡ I’m deeply motivated to grow as a reliable and efficient developer, and I'm always looking for opportunities to work on real-world projects, learn new tools, and collaborate with others.
+
+📚 Always learning. Always building. Always evolving.
+
 
 <!--
 **Erphs/erphs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
